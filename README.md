@@ -13,6 +13,6 @@ This is the client for having discord RPC for Slither.io
 
 
 # Extras
-- This will get as I create it (client and web extension)
+- This will get updated as I create it (client and web extension)
 
 
