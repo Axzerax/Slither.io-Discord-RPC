@@ -7,9 +7,9 @@ This is the client for having discord RPC for Slither.io
 
 
 # Features
-* Showes your length
-* Showes your Rank or total players
-* Showes your chosen username
+* Shows your length
+* Shows your Rank or total players
+* Shows your chosen username
 
 
 # Extras
